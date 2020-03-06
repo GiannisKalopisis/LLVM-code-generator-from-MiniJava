@@ -1,0 +1,15 @@
+-----------Class A-----------
+---Variables---
+A.arr : 0
+A.fx : 8
+A.fy : 12
+---Methods---
+A.init : 0
+A.set : 8
+A.call : 16
+A.square : 24
+A.getFx : 32
+A.setFx : 40
+A.getFy : 48
+A.setFy : 56
+

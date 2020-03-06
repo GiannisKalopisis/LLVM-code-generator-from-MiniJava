@@ -1,0 +1,6 @@
+-----------Class A-----------
+---Variables---
+---Methods---
+A.plus : 0
+A.abs : 8
+

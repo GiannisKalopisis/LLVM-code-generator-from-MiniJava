@@ -1,0 +1,7 @@
+-----------Class And-----------
+---Variables---
+---Methods---
+And.tru : 0
+And.fal : 8
+And.anda : 16
+

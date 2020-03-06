@@ -1,0 +1,19 @@
+-----------Class A-----------
+---Variables---
+A.fx : 0
+A.fy : 4
+---Methods---
+A.getFx : 0
+A.setFx : 8
+A.getFy : 16
+A.setFy : 24
+
+-----------Class B-----------
+---Variables---
+B.fx : 0
+---Methods---
+
+-----------Class C-----------
+---Variables---
+---Methods---
+

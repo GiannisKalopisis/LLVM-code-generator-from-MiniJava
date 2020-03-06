@@ -1,0 +1,15 @@
+-----------Class A-----------
+---Variables---
+A.obj : 0
+---Methods---
+A.foo : 0
+
+-----------Class B-----------
+---Variables---
+B.x : 0
+---Methods---
+B.getX : 0
+B.testThis : 8
+B.testNewSub : 16
+B.testNewSame : 24
+
